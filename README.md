@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Certifications
+[GitHub Foundations](https://www.credly.com/badges/c20cadf4-0485-403d-b0aa-d33b985846d2/public_url)
