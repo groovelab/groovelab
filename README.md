@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 国家資格
+- [登録セキスペ](https://riss.ipa.go.jp/r?r=024506)
+
 ### GitHub Certifications
 - [GitHub Foundations](https://www.credly.com/badges/c20cadf4-0485-403d-b0aa-d33b985846d2/public_url)
