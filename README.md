@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 
 ### GitHub Certifications
 - [GitHub Foundations](https://www.credly.com/badges/c20cadf4-0485-403d-b0aa-d33b985846d2/public_url)
+- [GitHub Actions](https://www.credly.com/badges/ab134cc0-ac2c-4d41-b6bf-eab7672b589f/public_url)
 
 
